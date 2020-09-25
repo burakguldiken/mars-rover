@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQz5NixdsejE0y7MpCBWz+KUUfNQfuaACgUMO4f3ilvahc85TkGhi/Qw+m2eZJOGfCFdWwA+xVDII6KxrjYDmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ben burak\\source\\repos\\MarsRover\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
